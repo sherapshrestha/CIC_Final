@@ -8,4 +8,4 @@ dependencies:
   - sphinx>=6.2.0
   - pandas
   - plotly 
-  - conda-forge::plotly
+
